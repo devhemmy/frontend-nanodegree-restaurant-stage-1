@@ -68,6 +68,11 @@ nav h1 a {
   text-transform: uppercase;
 	padding-top: 20%;
 }
+.nav-breadcrumb{
+	background-color: #eee;
+	width: 50%;
+	height: 5%;
+}
 #breadcrumb {
     padding: 10px 40px 16px;
     list-style: none;
