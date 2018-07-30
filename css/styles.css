@@ -142,7 +142,7 @@ label {
   letter-spacing: 0;
   margin: 10px;
   padding: 0 10px;
-  width: 200px;
+  width: 140px;
 }
 
 /* ====================== Restaurant Listing ====================== */
@@ -323,11 +323,11 @@ label {
 	.inside {
 		display: flex;
 		flex-direction: row;
-		width: 100vw;
+		width: 98%;
 	}
 	.inside header {
 		order: 0;
-		width: 100vw;
+		width: 98%;
 	}
 	header {
 		display: flex;
@@ -338,7 +338,7 @@ label {
 	}
 	header #breadcrumb {
 		order: 1;
-		width: 100vw;
+		width: 98%;
 		padding-right: 0;
 		padding-left: 0;
 		text-align: center;
@@ -348,33 +348,37 @@ label {
 		top:130px;
 		position: relative;
 		height: 300px;
-		width:100vw;
+		width:98%;
 	}
 	.inside #restaurant-container{
 		order: 3;
 		position: relative;
-		width: 100vw;
+		width: 98%;
 		padding: 140px 5px 0 0;
 		margin: auto;
 		text-align: center;
 	}
 	.inside #reviews-container{
-		width: 100vw;
+		width: 98%;
 		padding: 5px;
 		margin: auto;
 	}
 	.inside #footer {
 		order: 4;
-		width: 100vw;
+		width: 98%;
 		padding-left: 0;
 		padding-right: 0;
 		padding-top: 10px;
 	}
 	#reviews-list {
-		width: 100vw;
+		width: 98.filter-options select%;
 
 	}
 	#reviews-container h2 {
-		text-align: centerl
+		text-align: center
+	}
+	.filter-options select {
+
+	  width: 110px;
 	}
 }
