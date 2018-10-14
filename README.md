@@ -1,11 +1,10 @@
-# Front-end Nano Degree Scholarship
----
+#Front-End Nano Degree Scholarship
+----
 #### _Three Stage Course Material Project - Restaurant Reviews_
 
 ## Project Overview: Stage 1
 
 This is the **Restaurant Reviews** projects, this is a responsive project on different sized displays and accessible for screen reader use. it also a service worker to begin the process of creating a seamless offline experience for users.
-
 
 ### What do I do from here?
 
